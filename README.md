@@ -1,5 +1,5 @@
 # Delivery-System
-Team Name – S Team Members – Bhavanish Dhamnaskar – 002792028 Raunak Singh Matharu – 002785039 Samiksha Mundas - 002776646 Vatsal Doshi - 002776613
+Team Name – Go-Pro Team Members – Bhavanish Dhamnaskar – 002792028 Raunak Singh Matharu – 002785039 Samiksha Mundas - 002776646 Vatsal Doshi - 002776613
 
 Title : Delivery System
 
